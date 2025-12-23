@@ -47,3 +47,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 - **NextAuth.js**
 - **CSS Modules** (Custom Design System)
 - **Google Fonts** (Outfit)
+<img width="1867" height="922" alt="image" src="https://github.com/user-attachments/assets/31d270dd-531b-48ba-a9a1-4f4819eb96a4" />
+<img width="1868" height="900" alt="image" src="https://github.com/user-attachments/assets/5c38fa8e-1df4-4288-9d64-32f9cf11175e" />
+
